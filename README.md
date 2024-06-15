@@ -1,6 +1,6 @@
 # Adventure-Works-Dashboard-Report
 
-# Preview of the Dashboard (Power BI Service)
+## Preview of the Dashboard (Power BI Service)
 
  ![Screenshot 2024-06-15 161443](https://github.com/Abtg08/Adventure-Works-Dashboard-Report/assets/87989296/e4c870fa-9aa3-45b1-8e13-e089175e44b3)
 
